@@ -114,11 +114,9 @@ Here are some screenshots showcasing the app functionality:
 ![Tips Board](images/Screenshot 2025-09-29 234856.png)
 
 **3. Detailed Tip View (Step-by-Step Guidance)**  
-![Tip Detail 1](images/Screenshot 2025-09-29 235003.png)  
-![Tip Detail 2](images/Screenshot 2025-09-29 235046.png)  
-![Tip Detail 3](images/Screenshot 2025-09-29 235100.png)  
-![Tip Detail 4](images/Screenshot 2025-09-29 235139.png)  
-![Tip Detail 5](images/Screenshot 2025-09-29 235151.png)
+![image alt](https://github.com/Codelovee/plum-assignment--/blob/4eb4205ae8c9313234f450b13c75c8f7f9f20462/images/Screenshot%202025-09-29%20234606.png) 
+![image alt]()
+
 
 
 ---
