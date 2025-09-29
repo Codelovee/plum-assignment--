@@ -87,16 +87,18 @@ Display a personalized board of health tips and allow users to explore and save 
 ```
 src/
  ├─ components/
- │   ├─ TipCard.tsx
- │   └─ FavoriteButton.tsx
- ├─ screens/
- │   ├─ ProfileScreen.tsx
- │   ├─ TipsBoardScreen.tsx
- │   └─ TipDetailScreen.tsx
+ │   ├─ TipCard.jsx
+ │   └─ Header.jsx
+ |   |__LoadingSpinner.jsx
+ |   |__ErrorModal.jsx
+ ├─ pages/
+ │   ├─ SavedTipsPage.jsx
+ │   ├─ TipDetailPage.jsx
+ │   └─ TipsPage.jsx
  ├─ services/
- │   └─ aiService.ts
- ├─ App.tsx
- └─ main.tsx
+ │   └─ GeminiService.jsx
+ ├─ App.jsx
+ └─ main.jsx
 ```
 
 ---
